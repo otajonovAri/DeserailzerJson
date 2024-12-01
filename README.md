@@ -14,7 +14,7 @@ A simple order management system. Allows adding orders, viewing them in JSON for
 
 ## 🎥 Demo Video
 
-Watch the demo video of how to run and use the system:
+Watch the demo video on usage:
 
 [![Demo Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://github.com/user-attachments/assets/c9aa4feb-37c5-4caa-9f36-2b1d69d64fcc)
 
