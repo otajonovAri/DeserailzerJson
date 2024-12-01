@@ -1,0 +1,14 @@
+D:\HomeWork_PDP\DeserailzerJson\DeserailzerJson\bin\Debug\net8.0\DeserailzerJson.exe
+D:\HomeWork_PDP\DeserailzerJson\DeserailzerJson\bin\Debug\net8.0\DeserailzerJson.deps.json
+D:\HomeWork_PDP\DeserailzerJson\DeserailzerJson\bin\Debug\net8.0\DeserailzerJson.runtimeconfig.json
+D:\HomeWork_PDP\DeserailzerJson\DeserailzerJson\bin\Debug\net8.0\DeserailzerJson.dll
+D:\HomeWork_PDP\DeserailzerJson\DeserailzerJson\bin\Debug\net8.0\DeserailzerJson.pdb
+D:\HomeWork_PDP\DeserailzerJson\DeserailzerJson\obj\Debug\net8.0\DeserailzerJson.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork_PDP\DeserailzerJson\DeserailzerJson\obj\Debug\net8.0\DeserailzerJson.AssemblyInfoInputs.cache
+D:\HomeWork_PDP\DeserailzerJson\DeserailzerJson\obj\Debug\net8.0\DeserailzerJson.AssemblyInfo.cs
+D:\HomeWork_PDP\DeserailzerJson\DeserailzerJson\obj\Debug\net8.0\DeserailzerJson.csproj.CoreCompileInputs.cache
+D:\HomeWork_PDP\DeserailzerJson\DeserailzerJson\obj\Debug\net8.0\DeserailzerJson.dll
+D:\HomeWork_PDP\DeserailzerJson\DeserailzerJson\obj\Debug\net8.0\refint\DeserailzerJson.dll
+D:\HomeWork_PDP\DeserailzerJson\DeserailzerJson\obj\Debug\net8.0\DeserailzerJson.pdb
+D:\HomeWork_PDP\DeserailzerJson\DeserailzerJson\obj\Debug\net8.0\DeserailzerJson.genruntimeconfig.cache
+D:\HomeWork_PDP\DeserailzerJson\DeserailzerJson\obj\Debug\net8.0\ref\DeserailzerJson.dll

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DeserailzerJson": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

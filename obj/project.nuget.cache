@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dIp2Z1b2BsM=",
+  "success": true,
+  "projectFilePath": "D:\\HomeWork_PDP\\DeserailzerJson\\DeserailzerJson\\DeserailzerJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
